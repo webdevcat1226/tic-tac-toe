@@ -42,11 +42,11 @@ ol, ul {
 
 .game {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .game-info {
-    margin-left: 20px;
+    margin: 30px auto;
 }
 
 .game-board {
